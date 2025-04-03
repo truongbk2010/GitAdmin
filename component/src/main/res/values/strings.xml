@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Git Admin</string>
+    <string name="str_user_list_title">Github Users</string>
+    <string name="str_user_list_empty">Empty Data</string>
+    <string name="str_user_list_refresh">Refresh</string>
+    <string name="str_user_detail_title">User Details</string>
+    <string name="str_user_detail_blog">Blog</string>
+    <string name="str_user_detail_follower">Follower</string>
+    <string name="str_user_detail_following">Following</string>
+    <string name="str_common_na">Not available</string>
+
+</resources>
